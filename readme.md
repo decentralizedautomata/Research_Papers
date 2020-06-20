@@ -5,3 +5,4 @@ https://github.com/decentralizedautomata/research-paper-references/blob/master/l
 # now whats our aim
 develop full system
 1) ![alt text](https://github.com/decentralizedautomata/research-paper-references/blob/master/Screenshot%20(141).png)
+2)![alt text](https://github.com/decentralizedautomata/research-paper-references/blob/master/Screenshot%20(142).png)
