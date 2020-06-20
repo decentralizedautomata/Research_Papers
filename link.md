@@ -4,3 +4,5 @@ https://blog.openmined.org/encrypted-training-on-mnist/
 https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/
 # link 3:(pygrid)
 https://blog.openmined.org/what-is-pygrid-demo/
+# link 4: (pygrid continued)
+https://github.com/OpenMined/PyGridNode
