@@ -8,3 +8,5 @@ https://blog.openmined.org/what-is-pygrid-demo/
 https://github.com/OpenMined/PyGridNode
 # link 5: (more examples)
 https://github.com/OpenMined/PySyft/tree/master/examples/tutorials
+# https://github.com/Raymw/Federated-XGBoost/tree/master/Code
+# https://github.com/IBM/differential-privacy-library
